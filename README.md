@@ -113,7 +113,7 @@ If you have any questions or feedback, feel free to create an issue or reach out
 
 ## Contact Me
 
-📧 **[Email](vaibhavbari412@gmail.com)**  
+📧 **[vaibhavbari412@gmail.com](mailto:vaibhavbari412@gmail.com)**  
 📞 **Phone**: +91 7083848369  
 
 --
